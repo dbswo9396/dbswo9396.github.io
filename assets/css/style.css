@@ -754,23 +754,24 @@ section {
 }
 
 .services .paper {
-  font-weight: 600;
   margin-bottom: 15px;
-  font-size: 18px;
   position: relative;
   padding-bottom: 15px;
 }
 
 .services .paper t {
+  font-weight: 600;
   font-size: 18px;
+  padding-bottom: 5px;
 }
 
 .services .paper a {
-  font-size: 15px;
+  font-size: 18px;
+  padding-bottom: 10px;
 }
 
 .services .paper j {
-  font-size: 12px;
+  font-size: 18px;
 }
 
 .services .title {
