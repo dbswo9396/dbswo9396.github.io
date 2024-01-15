@@ -725,7 +725,7 @@ section {
 # Services
 --------------------------------------------------------------*/
 .services .icon-box {
-  margin-bottom: 5px;
+  margin-bottom: 20px;
   text-align: center;
 }
 
@@ -754,9 +754,10 @@ section {
 }
 
 .services .paper {
+  justify-content: center;
   text-align: center;
   position: relative;
-  padding-bottom: 10px;
+  padding-bottom: 5px;
 }
 
 .services .paper t {
@@ -766,12 +767,12 @@ section {
 }
 
 .services .paper a {
-  font-size: 18px;
+  font-size: 16px;
   margin-bottom: 10px;
 }
 
 .services .paper j {
-  font-size: 18px;
+  font-size: 16px;
 }
 
 .services .title {
