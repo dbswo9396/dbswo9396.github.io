@@ -755,6 +755,7 @@ section {
 
 .services .paper {
   justify-content: center;
+  align-items: center;
   text-align: center;
   position: relative;
   padding-bottom: 5px;
