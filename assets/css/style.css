@@ -757,23 +757,23 @@ section {
   justify-content: center;
   align-items: center;
   text-align: center;
-  padding-bottom: 0px;
+  padding-bottom: 0;
 }
 
 .services .paper t {
   font-weight: 600;
   font-size: 18px;
-  margin-bottom: 0px;
+  margin-bottom: 0;
 }
 
 .services .paper a {
   font-size: 16px;
-  margin-bottom: 0px;
+  margin-bottom: 0;
 }
 
 .services .paper j {
   font-size: 16px;
-  margin-bottom: 0px;
+  margin-bottom: 0;
 }
 
 .services .title {
