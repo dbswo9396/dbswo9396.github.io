@@ -725,7 +725,7 @@ section {
 # Services
 --------------------------------------------------------------*/
 .services .icon-box {
-  margin-bottom: 20px;
+  margin-bottom: 10px;
   text-align: center;
 }
 
@@ -783,7 +783,7 @@ section {
 
 .services .description {
   line-height: 24px;
-  font-size: 20px;
+  font-size: 18px;
 }
 
 /*--------------------------------------------------------------
