@@ -764,16 +764,17 @@ section {
 .services .paper t {
   font-weight: 600;
   font-size: 18px;
-  margin-bottom: 5px;
+  margin-bottom: 2px;
 }
 
 .services .paper a {
   font-size: 16px;
-  margin-bottom: 10px;
+  margin-bottom: 2px;
 }
 
 .services .paper j {
   font-size: 16px;
+  margin-bottom: 10px;
 }
 
 .services .title {
