@@ -758,23 +758,23 @@ section {
   align-items: center;
   text-align: center;
   position: relative;
-  padding-bottom: 2px;
+  padding-bottom: 0px;
 }
 
 .services .paper t {
   font-weight: 600;
   font-size: 18px;
-  margin-bottom: 2px;
+  margin-bottom: 0px;
 }
 
 .services .paper a {
   font-size: 16px;
-  margin-bottom: 2px;
+  margin-bottom: 0px;
 }
 
 .services .paper j {
   font-size: 16px;
-  margin-bottom: 10px;
+  margin-bottom: 0px;
 }
 
 .services .title {
