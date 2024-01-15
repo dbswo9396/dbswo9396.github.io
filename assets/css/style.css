@@ -750,7 +750,7 @@ section {
 }
 
 .services:hover .icon {
-  box-shadow: 0px 0 25px rgba(92, 159, 36, 0.3);
+  box-shadow: 0px 0 0px rgba(92, 159, 36, 0.3);
 }
 
 .services .title {
@@ -783,7 +783,7 @@ section {
 
 .services .description {
   line-height: 24px;
-  font-size: 14px;
+  font-size: 18px;
 }
 
 /*--------------------------------------------------------------
