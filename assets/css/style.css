@@ -606,7 +606,7 @@ section {
 .about .content .icon-box h4 {
   font-size: 20px;
   font-weight: 700;
-  margin: 5px 0 10px 60px;
+  margin: 3px 0 10px 60px;
 }
 
 .about .content .icon-box i {
@@ -616,7 +616,7 @@ section {
 }
 
 .about .content .icon-box p {
-  font-size: 15px;
+  font-size: 20px;
   color: #848484;
   margin-left: 60px;
 }
@@ -783,7 +783,7 @@ section {
 
 .services .description {
   line-height: 24px;
-  font-size: 18px;
+  font-size: 14px;
 }
 
 /*--------------------------------------------------------------
