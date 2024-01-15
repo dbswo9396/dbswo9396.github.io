@@ -757,6 +757,7 @@ section {
   justify-content: center;
   align-items: center;
   text-align: center;
+  display: flex;
   padding-bottom: 0;
 }
 
