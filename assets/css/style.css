@@ -779,6 +779,13 @@ section {
   margin-bottom: 0;
 }
 
+.services .paper l {
+  font-weight: 600;
+  font-size: 16px;
+  color: #5c9f24;
+  margin-bottom: 0;
+}
+
 .services .title {
   font-weight: 600;
   margin-bottom: 15px;
