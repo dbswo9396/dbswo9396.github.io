@@ -633,7 +633,7 @@ section {
   max-height: 500px;
 }
 
-@media (max-width: 991px) {
+@media (max-width: 791px) {
   .about .image {
     text-align: center;
   }
@@ -643,7 +643,7 @@ section {
   }
 }
 
-@media (max-width: 667px) {
+@media (max-width: 467px) {
   .about .image img {
     max-width: 100%;
   }
