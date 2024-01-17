@@ -629,7 +629,7 @@ section {
 }
 
 .about .image {
-  background: url("../img/aboutme.jpeg") center center no-repeat;
+  background: url("../img/myphoto/me1.JPG") center center no-repeat;
   background-size: cover;
   max-height: 500px;
 }
