@@ -803,7 +803,8 @@ section {
 }
 
 .services .title a {
-  color: #444444;
+  color: #6c757d;
+  font-size: 22px;
   transition: 0.3s;
 }
 
