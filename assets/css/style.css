@@ -773,7 +773,7 @@ section {
 .services .paper r {
   font-size: 18px;
   margin-bottom: 0;
-  padding-bottom: 10px;
+  padding-bottom: 0px;
 }
 
 .services .paper t {
