@@ -772,8 +772,6 @@ section {
 
 .services .paper r {
   font-size: 18px;
-  margin-bottom: 0;
-  padding-bottom: 0px;
 }
 
 .services .paper t {
@@ -811,7 +809,7 @@ section {
 .services .title a {
   color: #6c757d;
   font-size: 22px;
-  transition: 0.3s;
+  transition: 0.1s;
 }
 
 .services .title a:hover {
