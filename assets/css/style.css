@@ -805,6 +805,10 @@ section {
   font-size: 18px;
   position: relative;
   padding-bottom: 15px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
 }
 
 .services .title a {
