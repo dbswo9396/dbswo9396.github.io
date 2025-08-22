@@ -629,12 +629,6 @@ section {
   margin-left: 60px;
 }
 
-.about .image {
-  background: url("../img/myphoto/me1.JPG") center center no-repeat;
-  background-size: cover;
-  max-height: 500px;
-}
-
 @media (max-width: 791px) {
   .about .image {
     text-align: center;
