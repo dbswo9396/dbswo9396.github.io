@@ -1347,7 +1347,7 @@ section {
   color: #5c9f24;
 }
 
-.contact .contact-info address,
+#.contact .contact-info address,
 .contact .contact-info p {
   margin-bottom: 0;
   color: #000;
